@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Gang Branch 2000
+Comment=Branche, Fetch et Sync de vos dépôts git
+Exec=gang-branch-2000
+Icon=gangbranch2000
+Terminal=false
+Categories=Development;RevisionControl;
